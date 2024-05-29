@@ -1,2 +1,2 @@
-tshirt list
-python list
+1. tshirt list
+2. python list
